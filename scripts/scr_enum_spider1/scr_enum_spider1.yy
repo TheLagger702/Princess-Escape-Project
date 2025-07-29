@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_enum_spider1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_enum_spider1",
+  "parent":{
+    "name":"States",
+    "path":"folders/Scripts/Enemies/States.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_sort_coins",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_sort_coins",
+  "parent":{
+    "name":"Coins",
+    "path":"folders/Scripts/Common/Coins.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

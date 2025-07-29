@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_enemy_long_attack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_enemy_long_attack",
+  "parent":{
+    "name":"Attacks",
+    "path":"folders/Scripts/Enemies/Attacks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,2 @@
+//ATTACK COOLDOWN
+atkDone = true;

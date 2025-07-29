@@ -1,0 +1,2 @@
+//ATTACK DURATION
+atkEnd = true;

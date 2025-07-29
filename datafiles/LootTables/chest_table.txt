@@ -1,0 +1,5 @@
+{
+	"chest1":{ "type": "coins", "wallet": {"small":20, "medium":1, "big":0} },	
+	"chest2":{ "type": "coins", "wallet": {"small":10, "medium":2, "big":1} },	
+	"chest3":{ "type": "coins", "wallet": {"small":0, "medium":20, "big":0} }
+}

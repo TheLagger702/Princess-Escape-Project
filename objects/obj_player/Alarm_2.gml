@@ -1,0 +1,2 @@
+//ATTACK COOLDOWN
+attackAble = true;

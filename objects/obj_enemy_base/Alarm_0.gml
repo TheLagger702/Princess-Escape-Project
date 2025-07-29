@@ -1,0 +1,2 @@
+movement = lastMovement;
+invisible = false;

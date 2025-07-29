@@ -1,0 +1,1 @@
+if(spider != noone) spider.hanging = false;
